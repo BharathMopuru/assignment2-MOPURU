@@ -14,6 +14,11 @@ Nearest Airport is **Heathrow Airport**.
 3. From Elizabeth line, Take a metro to Tottenham Court Road station it is just  a 5min raid.
 4. From there head northwest toward Great Russell St in 0.3 mile destination will be on right.
 
+Other near recomendation places are
+- Russell Square.
+- Charles Dickens Museum. 
+- Sir John Soane's Museum.
+- Madame Tussauds London.
 
 
 
