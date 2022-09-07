@@ -22,6 +22,20 @@ Other near recomendation places are
 
 [AboutMe](https://github.com/BharathMopuru/assignment2-MOPURU/blob/main/AboutMe.md)
 
+---
+
+## Table of recomended cities
+
+The below table discribes about the importent place in India that have a very old history and reminds us there heritage.
+
+| City Name | Importent Location | Time to spend|
+|:---------|:------------------:|-------------:|
+|Jaipur |Amber Fort|1 day|
+|Agra|Taj Mahal|6 hours|
+|Delhi|Red Fort|12 hours|
+|Kadapa|Gandikota|2 days|
+
+
 
 
 
