@@ -35,8 +35,26 @@ The below table discribes about the importent place in India that have a very ol
 |Delhi|Red Fort|12 hours|
 |Kadapa|Gandikota|2 days|
 
+---
+
+## QUOTES
+
+> What is a life whitout a little Risk? - *J.K.ROWLING.*
+
+>First they ignore you, then they laugh at you, then they fight you, then you win. - *MAHATMA GANDHI.*
+
+---
+
+## Code fencing
+
+>How do I calculate hypotenuse from an angle and height?
+
+<https://stackoverflow.com/questions/73640909/how-do-i-calculate-hypotenuse-from-an-angle-and-height>
+
+```
+Redirect 301 /oldpage.html http://www.yoursite.com/newpage.html
+Redirect 301 /oldpage2.html http://www.yoursite.com/folder/
+```
 
 
-
-
-
+<https://css-tricks.com/snippets/htaccess/301-redirects/#aa-redirect-a-single-page>
